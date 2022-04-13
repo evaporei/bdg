@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Usage: ./user/delete.sh scott
+# Usage: ./user/drop.sh scott
 
 set -e
 
