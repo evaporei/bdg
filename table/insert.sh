@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Usage: ./insert.sh cars '{"id": 123, "name": "asdf"}'
+# Usage: ./table/insert.sh cars '{"id": 123, "name": "asdf"}'
 
 set -e
 

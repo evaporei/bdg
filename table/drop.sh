@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Usage: ./drop.sh cars
+# Usage: ./table/drop.sh cars
 
 set -e
 
