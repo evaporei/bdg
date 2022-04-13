@@ -1,6 +1,8 @@
 # internals
 
-- Each table will be a file
+- ~/.bdg/data/cars
+  - Each table will be a file
+  - Each line of a table file is an entry
 - Each commit describes:
   - author: authorized db user
   - time: when
