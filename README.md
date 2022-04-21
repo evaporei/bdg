@@ -17,7 +17,8 @@ A bash-based database with git-based internals. Basically a terrible idea.
     - [x] create
     - [x] list
     - [x] drop
-    - [ ] set-current
+    - [x] set-current
+    - [x] get-current
 - db
     - [ ] create
     - [ ] list
@@ -52,8 +53,8 @@ Besides the commands listed above, some general functionality needs to be implem
 - Refactor
   - Make metadata be stored as `bdg` tables 
   - Abstract common functionality/constants/etc in source files
-- Validation and Errors
-  - There's a ton to do here, not gonna list for now
+- Validation and Errors (there's a ton to do here 😅, I'll list a few below)
+  - `user/set-current` should validate that the user in fact exists
 
 Less important ones:
 
