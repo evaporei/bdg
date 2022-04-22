@@ -57,7 +57,8 @@ Besides the commands listed above, some general functionality needs to be implem
   - Make metadata be stored as `bdg` tables 
   - Abstract common functionality/constants/etc in source files
 - Validation and Errors (there's a ton to do here 😅, I'll list a few below)
-  - `user/set-current` should validate that the user in fact exists
+  - user
+    - `set-current` should validate that the user in fact exists
 
 Less important ones:
 
