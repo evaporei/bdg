@@ -7,8 +7,8 @@ A bash-based database with git-based internals. Basically a terrible idea.
 ## commands
 
 - general
-    - [ ] init
-    - [ ] reset
+    - [~] init
+    - [~] reset
 - table
     - [x] create
     - [x] drop
