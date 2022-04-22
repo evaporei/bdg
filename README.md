@@ -11,7 +11,7 @@ A bash-based database with git-based internals. Basically a terrible idea.
     - [x] drop
     - [x] insert
     - [x] select
-    - [x] update
+    - [ ] update
     - [ ] delete
 - user
     - [x] create
